@@ -25,7 +25,7 @@ A simple alarm clock application written in Python.
    Install the required dependencies:
    pip install -r requirements.txt
 
-2.Usage
+2. Usage
 
   To run the alarm clock application, execute the following command:
 
